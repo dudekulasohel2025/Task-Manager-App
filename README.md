@@ -121,4 +121,4 @@ For manual browser testing, try adding, editing, completing, deleting, filtering
 
 ## Estimated effort
 
-Approximately **3–4 hours** for implementation, testing, and documentation. This is a retrospective estimate, not a time-tracked measurement.
+Approximately **8–10 hours** for implementation, testing, and documentation. This is a retrospective estimate, not a time-tracked measurement.
