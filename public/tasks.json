@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Set up project repo",
+    "priority": "High",
+    "dueDate": "2026-01-10",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Design login screen",
+    "priority": "Medium",
+    "dueDate": "2027-03-12",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Write API docs",
+    "priority": "Low",
+    "dueDate": "2027-04-20",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Fix checkout bug",
+    "priority": "High",
+    "dueDate": "2026-01-15",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Plan team outing",
+    "priority": "Low",
+    "dueDate": null,
+    "completed": true
+  }
+]
